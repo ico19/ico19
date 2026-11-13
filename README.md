@@ -55,7 +55,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Visionary Web Forge**](https://github.com/ico19/visionarywebforge) | Lead-generation tool to find businesses that need a website | HTML |
+| 🔐 [**Cript-ico**](https://github.com/ico19/cript-ico) | Universal licensing & remote-control layer for any app: expiring keys, Ed25519-signed validation, remote lock, AES-256 | Python · FastAPI |
+| 📈 [**TradeScope**](https://github.com/ico19/tradescope) | AI market-analysis dashboard with live TradingView charts, SMC confluence engine and LLM analyses | PHP · MySQL · Claude API |
+| 🗺️ [**Visionary Web Forge**](https://github.com/ico19/visionarywebforge) | Lead-generation map: finds local businesses without a website and tracks them in a sales pipeline | JavaScript · Google Places |
 
 ### 🎓 Certifications & education
 
